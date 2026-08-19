@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048" width="2048" height="2048">
+	<style>
+		.s0 { fill: #f9f9f9;stroke: #000000;stroke-width: 75 } 
+		.s1 { fill: #f9f9f9;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 75 } 
+		.s2 { fill: #000000 } 
+	</style>
+	<g id="g1668">
+		<g id="g1616">
+			<path id="path4633-2" class="s0" d="m995.88 1492.61c-217.52 65.06-450.9 107.64-512 351.46h1084.74c-19.39-218.57-266.45-273.15-485.96-351.46"/>
+			<path id="path4635-9" fill-rule="evenodd" class="s1" d="m1022.64 1596.75c-283.13 0-512-228.87-512-512 0-283.14 228.87-512 512-512 283.14 0 512 228.86 512 512 0 283.13-228.86 512-512 512z"/>
+			<g id="g1334">
+				<path id="rect1152-7" fill-rule="evenodd" class="s2" d="m963.51 708.71h118.27v187.26h-118.27z"/>
+				<path id="rect1154-0" fill-rule="evenodd" class="s2" d="m814.91 895.97h415.47v69.54h-415.47z"/>
+				<g id="g1296-9">
+					<path id="rect1156-36" fill-rule="evenodd" class="s2" d="m963.69 965.51h17.87v393.02h-17.87z"/>
+					<path id="rect1156-3-0" fill-rule="evenodd" class="s2" d="m1063.87 965.51h17.87v393.02h-17.87z"/>
+					<path id="path1175-5-2-6" class="s2" d="m963.54 1358.53l59.06 102.25 59.06-102.25h-18.02l-41.04 71.1-41.04-71.1z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
